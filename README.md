@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm César Carmona <img src="https://media.giphy.com/media/JvxG1YZ5BcSy1GU0DN/giphy.gif" width="70"></h1>
 
-*“Lo mejor que puedes hacer con el conocimiento es compartirlo”*
+*“What is done by what is called myself is, I feel, done by something greater than myself in me.”
+— James C. Maxwell*
 
 ### About me:
 - **18 years, from México**
