@@ -2,7 +2,7 @@
 
 *“What is done by what is called myself is, I feel, done by something greater than myself in me.” - James Clerk Maxwell*
 
-##About me:
+### About me:
 - **18 years, from México**
 - **Student Developer @Innovacción Virtual**
 - **Self-learning in TI**
