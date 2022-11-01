@@ -4,7 +4,7 @@
 
 ### About me:
 - **18 years, from México**
-- **Student Developer @Innovacción Virtual**
+- **Student Developer @InnovaccionVirtual**
 - **Self-learning in TI**
 
 ```js
