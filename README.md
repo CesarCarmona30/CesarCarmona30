@@ -23,6 +23,11 @@ while(alive) {
 <h3 align="left">Connect with me:</h3>
 <a href="https://instagram.com/_cesar_carmona_" target="_blank"><img src="https://img.shields.io/badge/@_cesar_carmona_-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://twitter.com/CesarCarmona30"  target="_blank"><img src="https://img.shields.io/twitter/follow/CesarCarmona30?style=social">
-     
+<div align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CesarCarmona30&show_icons=true&theme=outrun&locale=en&layout=compact" alt="CesarCarmona30" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CesarCarmona30&show_icons=true&theme=outrun&locale=en" alt="CesarCarmona30" /></p>     
+     </div>     
+<div align="center">     
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=CesarCarmona30)     
+</div>     
 ---
