@@ -25,7 +25,9 @@ while(alive) {
 <a href="https://twitter.com/CesarCarmona30"  target="_blank"><img src="https://img.shields.io/twitter/follow/CesarCarmona30?style=social">
      
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CesarCarmona30&show_icons=true&theme=outrun&locale=en&layout=compact" alt="CesarCarmona30" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CesarCarmona30&show_icons=true&theme=outrun&locale=en" alt="CesarCarmona30" /></p>     
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CesarCarmona30&show_icons=true&theme=outrun&locale=en" alt="CesarCarmona30" /></p>
+     
+     
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=CesarCarmona30)     
      
 ---
