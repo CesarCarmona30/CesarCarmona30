@@ -22,7 +22,7 @@ while(alive) {
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://instagram.com/_cesar_carmona_" target="_blank"><img src="https://img.shields.io/badge/@_cesar_carmona_-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://twitter.com/LeroyB312"  target="_blank"><img src="https://img.shields.io/twitter/follow/CesarCarmona30?style=social">
+<a href="https://twitter.com/LeroyB312"  target="_blank"><img src="https://img.shields.io/twitter/follow/LeroyB312?style=social">
      
 <p><img align="left" 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=CesarCarmona30&show_icons=true&theme=outrun&locale=en&layout=compact" alt="CesarCarmona30" /></p>
