@@ -4,14 +4,14 @@
 — James C. Maxwell*
 
 ### About me:
-- **18 years, from México**
-- **Student Software Developer @InnovaccionVirtual**
+- **19 years, from México**
 - **Self-learning in TI**
 
 ```js
 while(alive) {
      wakeUp();
      eat();
+     workout();
      code();
      sleep();
 }
