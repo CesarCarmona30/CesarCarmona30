@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm César Carmona <img src="https://media.giphy.com/media/JvxG1YZ5BcSy1GU0DN/giphy.gif" width="70"></h1>
 
-*“What is done by what is called myself is, I feel, done by something greater than myself in me.”
-— James C. Maxwell*
+*Omnia Mea Mecum Porto*
 
 ### About me:
 - **19 years, from México**
