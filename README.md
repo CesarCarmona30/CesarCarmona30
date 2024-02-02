@@ -9,14 +9,13 @@
 - **Student of Computer Science at UPIICSA of IPN**
 - **Self-learning in TI**
 
-```js
-while(alive) {
+```py
+while alive: 
      wakeUp();
      eat();
      workout();
      code();
      sleep();
-}
 ```
 
 <h3 align="left">Programming languages and tools:</h3>
