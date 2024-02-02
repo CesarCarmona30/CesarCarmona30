@@ -6,6 +6,7 @@
 
 ### About me:
 - **19 years, from México**
+- **Student of Computer Science at UPIICSA of IPN**
 - **Self-learning in TI**
 
 ```js
