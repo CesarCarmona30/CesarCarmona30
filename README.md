@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm César Carmona <img src="https://media.giphy.com/media/JvxG1YZ5BcSy1GU0DN/giphy.gif" width="70"></h1>
 
-*Omnia Mea Mecum Porto*
+*"Omnia mea mecum porto"
+-Bías de Priene*
 
 ### About me:
 - **19 years, from México**
