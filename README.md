@@ -3,7 +3,8 @@
 *"Omnia mea mecum porto."*
 *- Bías de Priene*
 
-I am Cesar Carmona, a student of the Bachelor's Degree in **Computer Science** at **UPIICSA-IPN**. **</>**
+I am Cesar Carmona, a student of the Bachelor's Degree in **Computer Science** at **UPIICSA-IPN**.  **</>**
+
 Focused on concluding my university studies and continue learning from the vast knowledge in the world of technology. Passionate about supporting and exchanging learning with different people, so I enjoy mutual learning. My goal is to realize myself as a professional who contributes with his knowledge and skills for the benefit of the whole world. Here you will find my university and independent projects.
 
 ```py
