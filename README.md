@@ -8,12 +8,19 @@ I am Cesar Carmona, a student of the Bachelor's Degree in **Computer Science** a
 Focused on concluding my university studies and continue learning from the vast knowledge in the world of technology. Passionate about supporting and exchanging learning with different people, so I enjoy mutual learning. My goal is to realize myself as a professional who contributes with his knowledge and skills for the benefit of the whole world. Here you will find my university and independent projects.
 
 ```py
-while alive: 
-     wakeUp();
-     eat();
-     workout();
-     code();
-     sleep();
+about_me = {
+  age: 19,
+  cats: true,
+  country: "Mexico",
+  city: "Mexico City", 
+  main_languages: [
+    "Python", "C++", "Java"
+  ],
+  secondary_languages: [
+    "JavaScript", "SQL"
+  ]
+}
+
 ```
 </br>
 
