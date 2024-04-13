@@ -14,16 +14,16 @@ Aquí encontrarás mis proyectos universitarios e independientes.
 
 ```py
 about_me = {
-  "age": 19,
-  "cats": True,
-  "country": "Mexico",
-  "city": "Mexico City", 
-  "programming_languages": ["Python", "C++", "Java", "JavaScript", "SQL"],
-  "interests": ["gym", "indie-music", "programming"],
-  "favorite_subjects": ["Algorithms", "Data Structures", "AI", "Data Science", "Python"],
-  "goals": ["Get my university degree", "Work as a Software Engineer"],
-  "additional_skill": "Editing in Adobe Premiere",
-  "languages": ["Español (nativo)", "Inglés (B1)"]
+  age: 19,
+  cats: True,
+  country: "Mexico",
+  city: "Mexico City", 
+  programming_languages: ["Python", "C++", "Java", "JavaScript", "SQL"],
+  interests: ["gym", "indie-music", "programming"],
+  favorite_subjects: ["Algorithms", "Data Structures", "AI", "Data Science", "Python"],
+  goals: ["Get my university degree", "Work as a Software Engineer"],
+  additional_skill: "Editing in Adobe Premiere",
+  languages: ["Español (nativo)", "Inglés (B1)"]
 }
 # love programming <3
 ```
