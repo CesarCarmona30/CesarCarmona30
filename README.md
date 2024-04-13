@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm César Carmona <img src="https://media.giphy.com/media/JvxG1YZ5BcSy1GU0DN/giphy.gif" width="70"></h1>
 
-## Computer Science Student
+### Computer Science Student
 
 Hola, soy César Carmona, estudiante de la **Licenciatura en Ciencias de la Informática** en la unidad académica **UPIICSA** del **IPN**.
 
@@ -46,7 +46,7 @@ about_me = {
 [![CMD/Bash](https://img.shields.io/badge/CMD%2FBash-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=101010)](https://fontawesome.com/icons/git?f=brands&s=solid)
 
-## Stats
+## Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CesarCarmona30&show_icons=true&locale=en&layout=compact" alt="CesarCarmona30" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CesarCarmona30&show_icons=true&locale=en" alt="CesarCarmona30" /></p>
