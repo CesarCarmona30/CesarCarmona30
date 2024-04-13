@@ -25,7 +25,7 @@ about_me = {
   "additional_skill": "Editing in Adobe Premiere",
   "languages": ["Español (nativo)", "Inglés (B1)"]
 }
-//love programming <3
+# love programming <3
 ```
 </br>
 
