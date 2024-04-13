@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm César Carmona <img src="https://media.giphy.com/media/JvxG1YZ5BcSy1GU0DN/giphy.gif" width="70"></h1>
 
+Hola, soy César Carmona, estudiante de la *Licenciatura en Ciencias de la Informática* en la unidad académica *UPIICSA* del *IPN*. </>
+Estoy enfocado en concluir mis estudios universitarios y seguirme preparando en el mundo de la tecnología. Soy apasionado en apoyar e intercambiar conocimientos con diferentes personas, por lo que disfruto del aprendizaje mutuo. Mi meta es realizarme como un profesional que aporte sus conocimientos y habilidades en beneficio del mundo entero. Aquí encontrarás mis proyectos universitarios e independientes.
+
 *"Omnia mea mecum porto."*
 *- Bías de Priene*
 
-I'm Cesar Carmona, a student of the Bachelor's Degree in **Computer Science** at **UPIICSA-IPN**.  **</>**
-
-Focused on concluding my university studies and continue learning from the vast knowledge in the world of technology. Passionate about supporting and exchanging learning with different people, so I enjoy mutual learning. My goal is to realize myself as a professional who contributes with his knowledge and skills for the benefit of the whole world. Here you will find my university and independent projects.
 
 ```py
 about_me = {
