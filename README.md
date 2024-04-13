@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm César Carmona <img src="https://media.giphy.com/media/JvxG1YZ5BcSy1GU0DN/giphy.gif" width="70"></h1>
+
 ## Computer Science Student. About Me
 
 Hola, soy César Carmona, estudiante de la **Licenciatura en Ciencias de la Informática** en la unidad académica **UPIICSA** del **IPN**.
