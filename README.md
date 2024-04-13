@@ -44,7 +44,7 @@ about_me = {
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![CMD/Bash](https://img.shields.io/badge/CMD%2FBash-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=101010)]()
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=101010)](https://fontawesome.com/icons/git?f=brands&s=solid)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://fontawesome.com/icons/git?f=brands&s=solid)
 
 ## Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CesarCarmona30&show_icons=true&locale=en&layout=compact" alt="CesarCarmona30" /></p>
