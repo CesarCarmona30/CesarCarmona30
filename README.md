@@ -2,7 +2,9 @@
 
 Hola, soy César Carmona, estudiante de la **Licenciatura en Ciencias de la Informática** en la unidad académica **UPIICSA** del **IPN**.
 
-Estoy enfocado en concluir mis estudios universitarios y seguirme preparando en el mundo de la tecnología. Soy apasionado en apoyar e intercambiar conocimientos con diferentes personas, por lo que disfruto del aprendizaje mutuo. Mi meta es realizarme como un profesional que aporte sus conocimientos y habilidades en beneficio del mundo entero. Aquí encontrarás mis proyectos universitarios e independientes.
+Estoy enfocado en concluir mis estudios universitarios y seguirme preparando en el mundo de la tecnología. Me apasiona apoyar e intercambiar conocimientos con diferentes personas, por lo que disfruto del aprendizaje mutuo. Mi meta es realizarme como un profesional que aporte sus conocimientos y habilidades en beneficio del mundo entero. 
+
+Aquí encontrarás mis proyectos universitarios e independientes.
 
 *"Omnia mea mecum porto."*
 *- Bías de Priene*
