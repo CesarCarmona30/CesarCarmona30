@@ -14,7 +14,7 @@ Aquí encontrarás mis proyectos universitarios e independientes.
 
 ```py
 about_me = {
-  age: 19,
+  age: 20,
   cats: True,
   country: "Mexico",
   city: "Mexico City", 
