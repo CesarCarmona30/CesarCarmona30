@@ -22,19 +22,32 @@ about_me = {
   interests: ["gym", "indie-music", "programming"],
   favorite_subjects: ["Algorithms", "Data Structures", "AI", "Data Science", "Python"],
   goals: ["Get my university degree", "Work as a Software Engineer"],
-  additional_skill: "Editing in Adobe Premiere",
-  languages: ["Español (nativo)", "Inglés (B1)"]
+  languages: ["Español (nativo)"]
 }
 # love programming <3
 ```
 </br>
 
-## Connect with me:
-[![GitHub](https://img.shields.io/badge/Github-@CesarCarmona30-6e707e?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/CesarCarmona30)
-[![Facebook](https://img.shields.io/badge/Facebook-@clcg58-3b5998?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/clcg58)
-[![Instagram](https://img.shields.io/badge/Instagram-@cesar58.js-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/cesar58.js)
+## Contacto:
 
-## Technologies:
+<div align="left">
+  <a href="https://www.linkedin.com/in/c%C3%A9sar-carmona-67a751308/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=C%C3%A9sar%20Carmona&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=101010&style=for-the-badge" height="26" alt="linkedin logo"  />
+  </a>
+  <a href="https://facebook.com/clcg58" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=@clcg58&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=101010&style=for-the-badge" height="26" alt="facebook logo"  />
+  </a>
+  <a href="https://instagram.com/cesar58.js" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=@cesar58.js&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=101010&style=for-the-badge" height="26" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=@leroy58&logo=discord&label=&color=7289DA&logoColor=white&labelColor=101010&style=for-the-badge" height="26" alt="discord logo"  />
+</div>
+
+###
+
+###
+
+## Tecnologías:
 [![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logoColor=8B4513&labelColor=FF0000&color=FF0000)](https://fontawesome.com/icons/java?f=brands&s=solid&icon=java)
@@ -46,14 +59,15 @@ about_me = {
 [![CMD/Bash](https://img.shields.io/badge/CMD%2FBash-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://fontawesome.com/icons/git?f=brands&s=solid)
 
-## Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CesarCarmona30&show_icons=true&locale=en&layout=compact" alt="CesarCarmona30" /></p>
+## Estadísticas:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CesarCarmona30&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CesarCarmona30&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=CesarCarmona30&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=4&order=3" height="150" alt="streak graph"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CesarCarmona30&show_icons=true&locale=en" alt="CesarCarmona30" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CesarCarmona30&" alt="CesarCarmona30" /></p>
-     
-     
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=CesarCarmona30)     
-     
----
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=CesarCarmona30.CesarCarmona30&left_color=slategray&right_color=black&left_text=profile%20views"  />
+
+###
