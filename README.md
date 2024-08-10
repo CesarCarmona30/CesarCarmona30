@@ -60,13 +60,15 @@ about_me = {
 
 ## Estadísticas:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CesarCarmona30&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CesarCarmona30&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=CesarCarmona30&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=4&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=CesarCarmona30&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CesarCarmona30&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"/>
+  <img src="https://streak-stats.demolab.com?user=CesarCarmona30&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=4&order=3" height="150" alt="streak graph"/>
 </div>
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=CesarCarmona30.CesarCarmona30&left_color=slategray&right_color=black&left_text=profile%20views"  />
+<img align="center" width="1000" src="assets/github-snake.svg" alt="snake"/>
+
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=CesarCarmona30.CesarCarmona30&left_color=slategray&right_color=black&left_text=profile%20views"/>
 
 ###
