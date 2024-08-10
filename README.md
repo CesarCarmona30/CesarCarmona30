@@ -69,7 +69,8 @@ about_me = {
 
 <img align="center" width="1000" src="assets/github-snake.svg" alt="snake"/>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=CesarCarmona30.CesarCarmona30&left_color=slategray&right_color=black&left_text=profile%20views"/>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=cesarcarmona30&style=for-the-badge&color=blue" alt=""/>
 </div>
+
 ###
