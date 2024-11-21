@@ -6,7 +6,7 @@ Hola, soy César Carmona, estudiante de la **Licenciatura en Ciencias de la Info
 
 Estoy enfocado en concluir mis estudios universitarios y seguirme preparando en el mundo de la tecnología. Me apasiona apoyar e intercambiar conocimientos con diferentes personas, por lo que disfruto del aprendizaje mutuo. Mi meta es realizarme como un profesional que aporte sus conocimientos y habilidades en beneficio del mundo entero. 
 
-Aquí encontrarás mis proyectos universitarios e independientes.
+Aquí encontrarás mis proyectos.
 
 *"Omnia mea mecum porto."*
 *- Bías de Priene*
@@ -36,10 +36,6 @@ about_me = {
   <a href="https://facebook.com/clcg58" target="_blank">
     <img src="https://img.shields.io/static/v1?message=@clcg58&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=101010&style=for-the-badge" height="26" alt="facebook logo"  />
   </a>
-  <a href="https://instagram.com/cesar58.js" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=@cesar58.js&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=101010&style=for-the-badge" height="26" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=@leroy58&logo=discord&label=&color=7289DA&logoColor=white&labelColor=101010&style=for-the-badge" height="26" alt="discord logo"  />
 </div>
 
 ###
