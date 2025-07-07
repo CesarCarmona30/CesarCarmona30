@@ -33,9 +33,6 @@ about_me = {
   <a href="https://www.linkedin.com/in/c%C3%A9sar-carmona-67a751308/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=C%C3%A9sar%20Carmona&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=101010&style=for-the-badge" height="26" alt="linkedin logo"  />
   </a>
-  <a href="https://facebook.com/clcg58" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=@clcg58&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=101010&style=for-the-badge" height="26" alt="facebook logo"  />
-  </a>
 </div>
 
 ###
