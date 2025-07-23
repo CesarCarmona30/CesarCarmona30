@@ -18,8 +18,7 @@ about_me = {
   cats: True,
   country: "Mexico",
   city: "Mexico City", 
-  programming_languages: ["Python", "C++", "Java", "JavaScript", "SQL"],
-  interests: ["gym", "indie-music", "programming"],
+  languages: ["Python", "C++", "Java", "JavaScript", "SQL"],
   favorite_subjects: ["Algorithms", "Data Structures", "AI", "Data Science", "Python"],
   goals: ["Get my university degree", "Work as a Software Engineer"]
 }
